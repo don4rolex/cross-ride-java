@@ -1,0 +1,14 @@
+/.DS_Store
+bin/*
+/.classpath
+/.project
+.gradle/*
+build/*
+target/*
+**/.DS_Store
+**/.settings
+.idea/
+target/
+*.iml
+nb-configuration.xml
+atlassian-ide-plugin.xml
